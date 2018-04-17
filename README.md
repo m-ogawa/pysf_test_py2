@@ -1,11 +1,14 @@
-pysoundfileの実験。
+# pysoundfileの実験。
+
 ===
 
 https://github.com/m-ogawa/pysf_test_py2
+
 ===
 
 （目的）
 pythonで信号処理！
+
 ===
 
 （課題）
